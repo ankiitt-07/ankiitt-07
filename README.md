@@ -57,7 +57,7 @@
     </a>   
 </p>
 
-<p align="center" style="margin-top: 20px;">   
+<p align="center" style="margin-top: 100px;">   
     <a href="https://github.com/ankiitt-07?tab=repositories">
         <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankiitt-07&layout=compact&langs_count=10&theme=github_dark"/>
     </a>   
